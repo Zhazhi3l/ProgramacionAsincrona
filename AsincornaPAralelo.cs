@@ -65,7 +65,8 @@ namespace ProgramacionAsincrona
 
     class ProgramCompleto
     {
-        static void Main()
+        
+        static void MainProgramCompleto()
         {
             try
             {
